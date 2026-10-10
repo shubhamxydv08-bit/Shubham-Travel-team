@@ -1,0 +1,6 @@
+{
+  "name": "Shubham Travel",
+  "description": "Corporate transport fleet management for MNC cab operations, driver & supervisor on-duty verification, GPS trip sheets, fuel and maintenance logs, and compliance audit dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
